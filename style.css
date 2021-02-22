@@ -1,0 +1,48 @@
+ 
+ *{
+     margin: auto;
+ }
+ 
+ .ss{
+    text-align: center;
+     height: 700px;
+     width: 550px;
+     background-color: rgb(218, 161, 161);
+ 
+ }
+ 
+ .hh{
+     background-color: rgb(176, 224, 112);
+     color: aliceblue;
+     text-align: center;
+ }
+ .vv{
+     text-align: center;
+     color: rgb(137, 50, 177);
+     font-size: 35px;
+ }
+ .uu{
+     color:  blue;
+     font-size: 21px;
+ }
+ .gg{
+     text-align: right;
+    line-height:35px;
+ }
+ .mm{
+     text-align: right;
+    letter-spacing: 3px;
+    text-decoration: overline;
+      text-shadow:0px 2px blue;
+      color: blue;
+ }
+ .tt{
+      
+     height: 200px;
+     width: 600px;
+     margin-top:0px;
+ }
+ .pp{
+     text-align: left;
+ }
+   
